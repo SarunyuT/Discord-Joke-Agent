@@ -1,6 +1,6 @@
 # AI Agents - Homework 5
 
-This repository contains the implementation and analysis for MIT's "Modeling: Multimodal AI - Homework 5: AI Agents in the Wild."
+This repository contains the implementation and analysis for homework "Modeling: Multimodal AI - Homework 5: AI Agents in the Wild."
 
 ## Overview
 
